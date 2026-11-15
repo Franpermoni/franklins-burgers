@@ -19,6 +19,8 @@ MVP desarrollado como propuesta comercial para una hamburguesería: una tienda d
 
 ![Menú](menu.jpg)
 
+![Carrito y checkout](carrito.jpg)
+
 ## 🛠️ Stack
 
 React · Vite · Tailwind CSS · Supabase · Vercel
